@@ -1,0 +1,6 @@
+WebServer.h
+ESPmDNS.h
+WiFi.h
+madhephaestus/ESP32Servo@^0.11.0
+bblanchon/ArduinoJson@^6.19.4
+https://github.com/takeyamayuki/RESTuino.git
